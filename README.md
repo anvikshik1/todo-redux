@@ -1,4 +1,4 @@
-# React Drag-and-Drop Task Management App
+# React Task Management App
 
 ## Description
 
